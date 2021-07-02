@@ -147,6 +147,10 @@
  * Brought up low-power controller for power management
  * 512GB SSD, 64MB DDR RAM disks, configuration interface over USB2.0/3.0
 
+### Team lead and principal firmware developer on numerous bespoke SATCOM modules
+ * ST STM32 L4/F7/H7
+ * Custom, ultra-small, and ultra-low-power (<1uA), battery-operated SATCOM modules
+ * Lead a multi-disciplinary team of 9+ HW/SW/test/mechanical engineers to deliver products on short timelines
 
 ## Torpedo (Consultant, 2006 - Present)
 
