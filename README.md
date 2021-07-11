@@ -1,9 +1,9 @@
 ## Honeywell (2007-2010)
 
 ### Product Contributions
- * IS2500SN
- * DT7500SN
- * DTPI8M
+ * IS2500SN (Primary firmware developer)
+ * DT7500SN (Primary firmware developer)
+ * DTPI8M (Primary firmware developer)
 
 ### General Duties
  * C firmware development on MSP430
@@ -66,8 +66,8 @@
 ## Verifone (2010-2012)
 
 ### Product Contributions
- * [Vx520 Sprocket](http://www.verifone.com/PDF/VX520_Acq_Ltr.pdf)
- * [Vx680 WiFi/Bluetooth](http://www.verifone.com/PDF/VX680_Acq_Ltr.pdf)
+ * [Vx520 Sprocket](http://www.verifone.com/PDF/VX520_Acq_Ltr.pdf) (Primary OS driver developer)
+ * [Vx680 WiFi/Bluetooth](http://www.verifone.com/PDF/VX680_Acq_Ltr.pdf) (Primary OS driver developer)
  * Verix OS
 
 ### General Duties
@@ -113,15 +113,17 @@
 ## DMEA (2012 - Present)
 
 ### Product Contributions
- * PCMCIA/USB Data Transfer Device for Avionics (C-5, C-130, F-22)
- * USB 3.0 Data Transfer Module for Avionics (F-15)
- * Milstar Time Synchronization Module
- * Numerous battery-operated SATCOM transmitter modules
+ * PCMCIA/USB Data Transfer Device for Avionics (Primary firmware developer -- used on C-5/C-130/F-22)
+ * USB 3.0 Data Transfer Module for Avionics (Project manager, firmware team member -- F-15)
+ * Milstar Time Synchronization Module (Primary firmware developer)
+ * Numerous battery-operated SATCOM transmitter modules (Technical team lead)
 
 ### General Duties
  * C++ firmware development on ARM Cortex-M microcontrollers
  * C# utility development
  * Python/Javascript scripting for misc. tool support
+ * Program management
+ * Business/Client development
  
 ### Developed configuration application for numerous custom embedded device
  * C# GUI to read/write device configuration for embedded devices
@@ -178,6 +180,9 @@
    * LPC15xx
    * Added overcurrent/short detection
    * C++
+ * Version 3
+   * ATSAMD21
+   * C++
 
 ## NASA (Summer internship)
  * Researched high efficiency closed-form solution to the forward kinematics of the NASA Contact Dynamics Simulation Laboratory six-DOF Stewart platform.
@@ -199,15 +204,15 @@
 ### Designed Sentry Robot For defcon 15/16 robot contest (DEFCONBOTS)
  * Robotic shooting gallery robot to shoot down targets as fast as possible
  * 15
-    * [Screenshot of software](https://github.com/jotux/Resume/blob/master/pics/bot29b.png)
-    * [First Version](https://github.com/jotux/Resume/blob/master/pics/bot29.jpg)
+    * [Screenshot of software](https://github.com/jotux/HaveDone/raw/master/img/bot29b.png)
+    * [First Version](https://github.com/jotux/HaveDone/raw/master/img/bot29.jpg)
     * [Video of Pan-tilt system](http://www.youtube.com/watch?v=6BDaiTIeJFQ&list=UUIRt6onLVr6kQqrAGQUXr_Q&index=13&feature=plcp)
     * [Video of custom hopper I machined for first version](http://www.youtube.com/watch?v=Lcp9O3q8qRk&list=UUIRt6onLVr6kQqrAGQUXr_Q&index=15&feature=plcp)
     * [Video of development](http://www.youtube.com/watch?v=XiPxKCMyNRM&list=UUIRt6onLVr6kQqrAGQUXr_Q&index=11&feature=plcp)
     * [Video of competition](http://www.youtube.com/watch?v=qNHM4yJPc9o&list=UUIRt6onLVr6kQqrAGQUXr_Q&index=12&feature=plcp)
  * 16
-    * [Pic1](https://github.com/jotux/Resume/blob/master/pics/bot19.jpg)
-    * [Pic2](https://github.com/jotux/Resume/blob/master/pics/bot20.jpg)
+    * [Pic1](https://github.com/jotux/HaveDone/raw/master/img/bot19.jpg)
+    * [Pic2](https://github.com/jotux/HaveDone/raw/master/img/bot20.jpg)
     
 ### Designed and hosted robot laser contest for defcon 22/23 (DEFCONBOTS)
  * Defconbots.org
@@ -227,6 +232,8 @@
 ### Cofounded on-campus robotics enthuist club (Competitive Robotics @ CSUS)
 
 ### Designed 360-degree robotic camera platform
+ * [Model](https://github.com/jotux/HaveDone/raw/master/img/cambot.JPG)
+ * [Finished Robot](https://github.com/jotux/HaveDone/raw/master/img/cambot3.JPG)
 
 ### Design electro-ocular PC mouse replacement (senior project)
 
