@@ -8,7 +8,7 @@
 ### General Duties
  * C firmware development on MSP430
  * C# utility development
- * Ruby/Python/Javascript scripting for misc. tool support
+ * Python/Javascript scripting for misc. tool support
 
 ### Experiment to determine feasibility of resistance to bright incandescent light
  * Multiple circuit/software/mechanical experiments performed
@@ -61,7 +61,7 @@
  * Power-over-network motion detector [DT7500SN](http://www.security.honeywell.com/hsc/products/sensor/mo/vplex/263626.html) / [IS2500SN](http://www.security.honeywell.com/hsc/products/sensor/mo/vplex/263620.html)
  * EMEA wireless motion detector (DTPI8m)
  * Developed new algorithm for immunity to noisy fluorescent lights
- * Developed low-power framework (<50uA) to extend battery life to > 4 years on V-Plex devices
+ * Developed low-power framework (<50uA) to extend battery life to > 4 years on devices
 
 ## Verifone (2010-2012)
 
@@ -114,16 +114,15 @@
 
 ### Product Contributions
  * PCMCIA/USB Data Transfer Device for Avionics (Primary firmware developer -- used on C-5/C-130/F-22)
- * USB 3.0 Data Transfer Module for Avionics (Project manager, firmware team member -- F-15)
  * Milstar Time Synchronization Module (Primary firmware developer)
- * Numerous battery-operated SATCOM transmitter modules (Technical team lead)
+ * USB 3.0 Data Transfer Module for Avionics (Technical team lead, firmware team member -- F-15)
+ * Numerous battery-operated SATCOM transmitter modules (Program lead)
 
 ### General Duties
  * C++ firmware development on ARM Cortex-M microcontrollers
  * C# utility development
  * Python/Javascript scripting for misc. tool support
- * Program management
- * Business/Client development
+ * Program/Growth/Partnership management
  
 ### Developed configuration application for numerous custom embedded device
  * C# GUI to read/write device configuration for embedded devices
@@ -139,32 +138,31 @@
 
 ### Architectural hardware design and firmware design of dual-interface data storage device for C-5
  * PCMCIA and USB mass storage
- * C firmware on ARM Cortex-M3 (LPC18xx)
+ * C++ firmware on ARM Cortex-M3 (LPC18xx)
 
 ### Architectural hardware design and firmware design of high-performance data storage device for F-15
  * Embedded Linux on ARM Cortex A8 (ATSAMA5D36)
  * C Firmware on ARM Cortex M0 (LPC824)
  * Architected hardware design over ~12 months to meet vigorous requirements
- * Worked to bring up embedded linux with <5 second boot time
- * Brought up low-power controller for power management
+ * Worked to bring up embedded linux with <3 second boot time
  * 512GB SSD, 64MB DDR RAM disks, configuration interface over USB2.0/3.0
 
 ### Team lead and principal firmware developer on numerous bespoke SATCOM modules
  * ST STM32 L4/F7/H7
  * Custom, ultra-small, and ultra-low-power (<1uA), battery-operated SATCOM modules
- * Lead a multi-disciplinary team of 9+ HW/SW/test/mechanical engineers to deliver products on short timelines
+ * Lead a multi-disciplinary team of 12+ HW/SW/test/mechanical engineers to deliver products on short timelines
 
 ## Torpedo (Consultant, 2006 - Present)
 
-### Developed controller for networked pan-tilt cameras (OnScene Systems)
+### Developed controller for networked pan-tilt cameras (OnScene Systems, 2008)
  * Schematic capture/layout for handheld controller, central routing and camera controller
- * Developed firmware for controller signal routing (ATmega
+ * Developed firmware for controller signal routing (ATmega32)
 
-### Developed controller for automated cat-litter cleaning machine (Litter Revolution)
+### Developed controller for automated cat-litter cleaning machine (Litter Revolution, 2010)
  * Schematic capture/layout for machine controller
  * Developed firmware (UI, motor control, audio indication, safety)
 
-### Developed Controller and infrastructure for research-grade modular robot (Barobo iMobot)
+### Developed Controller and infrastructure for research-grade modular robot (Barobo iMobot, 2011)
  * Schematic capture/layout for central controller, sensors, and peripheral connector boards
  * Worked with mechanical engineer to ensure placement and compatibility with mechanical housing
  * Developed three-layer hardware platform: Sensor(MSP430) <-> (Hardware Controller)ARM Cortex-M3 <-> (Master Controller)OMAP 3530
@@ -172,19 +170,20 @@
  * Wrote hardware drivers for device bring-up
  * http://www.barobo.com/
 
-### Firmware for IR LED biomedical device (HealthLight)
+### Firmware for IR LED biomedical device (Photon Inc/HealthLight, 2015-2021)
  * Version 1
    * PSOC
    * Firmware for 4-port controller and single controller
+   * C
  * Version 2
-   * LPC15xx
+   * LPC8xx/LPC15xx
    * Added overcurrent/short detection
    * C++
  * Version 3
    * ATSAMD21
    * C++
 
-## NASA (Summer internship)
+## NASA (Summer internship, 2006)
  * Researched high efficiency closed-form solution to the forward kinematics of the NASA Contact Dynamics Simulation Laboratory six-DOF Stewart platform.
  * Developed and programmed solution algorithm (MATLAB)
  * [Project](https://github.com/jotux/Steward-Platform-Forward-Kinematics-Solver)
