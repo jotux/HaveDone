@@ -236,5 +236,5 @@
 
 ### Design electro-ocular PC mouse replacement (senior project)
 
-###Super-Heavyweight battlebot (340 lb)
+### Super-Heavyweight battlebot (340 lb)
  * [Video of competition](http://www.youtube.com/watch?v=tXloMf5v4C4&feature=autoplay&list=UUIRt6onLVr6kQqrAGQUXr_Q&lf=p)
