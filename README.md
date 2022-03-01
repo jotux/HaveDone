@@ -226,15 +226,11 @@
 
 ## CSUS
 
-### Designed step-up voltage converter
-
-### Cofounded on-campus robotics enthuist club (Competitive Robotics @ CSUS)
-
-### Designed 360-degree robotic camera platform
- * [Model](https://github.com/jotux/HaveDone/raw/master/img/cambot.JPG)
- * [Finished Robot](https://github.com/jotux/HaveDone/raw/master/img/cambot3.JPG)
-
-### Design electro-ocular PC mouse replacement (senior project)
-
-### Super-Heavyweight battlebot (340 lb)
- * [Video of competition](http://www.youtube.com/watch?v=tXloMf5v4C4&feature=autoplay&list=UUIRt6onLVr6kQqrAGQUXr_Q&lf=p)
+ * Designed step-up voltage converter
+ * Cofounded on-campus robotics enthuist club (Competitive Robotics @ CSUS)
+ * Designed 360-degree robotic camera platform
+   * [Model](https://github.com/jotux/HaveDone/raw/master/img/cambot.JPG)
+   * [Finished Robot](https://github.com/jotux/HaveDone/raw/master/img/cambot3.JPG)
+ * Designed electro-ocular PC mouse replacement (senior project)
+ * Super-Heavyweight battlebot (340 lb)
+   * [Video of competition](http://www.youtube.com/watch?v=tXloMf5v4C4&feature=autoplay&list=UUIRt6onLVr6kQqrAGQUXr_Q&lf=p)
