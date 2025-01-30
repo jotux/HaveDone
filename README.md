@@ -110,7 +110,7 @@
  * Developed C# email bot that could build specified versions and reply with binary
  * Configured VNC software for secure remote file signing
 
-## DMEA (2012 - Present)
+## DMEA (2012 - 2024)
 
 ### Product Contributions
  * PCMCIA/USB Data Transfer Device for Avionics (Primary firmware developer -- used on C-5/C-130/F-22)
@@ -123,6 +123,7 @@
  * C# utility development
  * Python/Javascript scripting for misc. tool support
  * Program/Growth/Partnership management
+ * Technical Leadership
  
 ### Developed configuration application for numerous custom embedded device
  * C# GUI to read/write device configuration for embedded devices
@@ -130,7 +131,7 @@
 ### Created tool to automated microcontroller/CPLD programming and testing
  * Detect each programming interface
  * Erase-Program-Test each device
- * Trigger SATCOM transmits and verify message receipt on back-end server to end-to-end verificiton
+ * Trigger SATCOM transmits and verify message receipt on back-end server to end-to-end verification
 
 ### Created unit test framework for embedded software
  * Implemented on IAR compiler/simulator
@@ -151,6 +152,31 @@
  * ST STM32 L4/F7/H7
  * Custom, ultra-small, and ultra-low-power (<1uA), battery-operated SATCOM modules
  * Lead a multi-disciplinary team of 12+ HW/SW/test/mechanical engineers to deliver products on short timelines
+
+### Technical Leader for in-house engineering division
+ * Oversaw technical execution
+ * Business Development
+ * Primary advisor to division leadership
+
+## Sierra Space (2024 - Present)
+
+### Product Contributions
+ * Satellite system for custom payload
+
+### General Duties
+ * C/C++ firmware development on satellite systems
+ * BSP and driver development (C, embedded Linux)
+ * Flight software component development (C++17)
+
+### Verified, updated, and fixed vendor BSP for PowerPC 8548
+ * C Linux drivers
+
+### Wrote driver for standalone ADCS module (Tensor)
+ * C++ software module to command ADCS module and retrieve status
+
+### Architectural software design of HWIL simulation system
+ * Planning and documentation of HWIL simulation approach
+ * C++ development of drivers and simulation modules
 
 ## Torpedo (Consultant, 2006 - Present)
 
@@ -227,7 +253,7 @@
 ## CSUS
 
  * Designed step-up voltage converter
- * Cofounded on-campus robotics enthuist club (Competitive Robotics @ CSUS)
+ * Co-founded on-campus robotics enthusiast club (Competitive Robotics @ CSUS)
  * Designed 360-degree robotic camera platform
    * [Model](https://github.com/jotux/HaveDone/raw/master/img/cambot.JPG)
    * [Finished Robot](https://github.com/jotux/HaveDone/raw/master/img/cambot3.JPG)
